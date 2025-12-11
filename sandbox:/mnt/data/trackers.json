@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": "target-worlds-2024-regidrago",
+      "name": "2024 Pokémon Worlds Deck – Regidrago VSTAR",
+      "store": "target",
+      "url": "https://www.target.com/p/2024-pok-233-mon-trading-card-game-world-championships-deck-regidrago-vstar/-/A-94411703?clkid=afd9921eNd56511f09c2f2394eaea2760&cpng=&TCID=AFL-afd9921eNd56511f09c2f2394eaea2760&afsrc=1&lnm=81938&afid=Mavely&ref=tgt_adv_xasd0002",
+      "channel_env": "WEBHOOK_POKEMON_DROPS",
+      "check_interval_seconds": 60,
+      "selectors": {}
+    },
+    {
+      "id": "target-worlds-2024-iron-thorns",
+      "name": "2024 Pokémon Worlds Deck – Iron Thorns EX",
+      "store": "target",
+      "url": "https://www.target.com/p/2024-pok-233-mon-trading-card-game-world-championships-deck-iron-thorns-ex/-/A-94411685?clkid=afd9921eNd56511f09c2f2394eaea2760&cpng=&TCID=AFL-afd9921eNd56511f09c2f2394eaea2760&afsrc=1&lnm=81938&afid=Mavely&ref=tgt_adv_xasd0002",
+      "channel_env": "WEBHOOK_POKEMON_DROPS",
+      "check_interval_seconds": 60,
+      "selectors": {}
+    },
+    {
+      "id": "target-holiday-calendar-2024",
+      "name": "Pokémon TCG Holiday Calendar (Target)",
+      "store": "target",
+      "url": "https://www.target.com/p/pok-mon-tcg-holiday-calendar-8-foil-promo-cards-5-booster-packs-more/-/A-1004416124?clkid=afd9921eNd56511f09c2f2394eaea2760&cpng=&TCID=AFL-afd9921eNd56511f09c2f2394eaea2760&afsrc=1&lnm=81938&afid=Mavely&ref=tgt_adv_xasd0002",
+      "channel_env": "WEBHOOK_POKEMON_DROPS",
+      "check_interval_seconds": 60,
+      "selectors": {}
+    },
+    {
+      "id": "walmart-holiday-calendar-2025",
+      "name": "2025 Pokémon Holiday Calendar (Walmart)",
+      "store": "walmart",
+      "url": "https://www.walmart.com/ip/2025-Pok-mon-Holiday-Calendar/17558653385?conditionCode=401001&conditionCode=1&conditionGroupCode=4&clickid=WIyTLfVEcxycRcK2XgXLO2FsUkpQ0LzxIXIxUQ0&irgwc=1&afsrc=1&sourceid=imp_WIyTLfVEcxycRcK2XgXLO2FsUkpQ0LzxIXIxUQ0&veh=aff&wmlspartner=imp_10078&affiliates_ad_id=612734&campaign_id=9383&sharedid=nowinstock.net",
+      "channel_env": "WEBHOOK_POKEMON_DROPS",
+      "check_interval_seconds": 60,
+      "selectors": {}
+    },
+
+    { "id": "amazon-B0FC6Z4LCC", "name": "Amazon ASIN B0FC6Z4LCC", "store": "amazon", "url": "https://www.amazon.com/dp/B0FC6Z4LCC?tag=nisamain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0C4D4R3H8", "name": "Amazon ASIN B0C4D4R3H8", "store": "amazon", "url": "https://www.amazon.com/dp/B0C4D4R3H8?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0CTZQX8GZ", "name": "Amazon ASIN B0CTZQX8GZ", "store": "amazon", "url": "https://www.amazon.com/dp/B0CTZQX8GZ?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0DPSBL2G3", "name": "Amazon ASIN B0DPSBL2G3", "store": "amazon", "url": "https://www.amazon.com/dp/B0DPSBL2G3?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0CDR49HGC", "name": "Amazon ASIN B0CDR49HGC", "store": "amazon", "url": "https://www.amazon.com/dp/B0CDR49HGC?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0DTY5228W", "name": "Amazon ASIN B0DTY5228W", "store": "amazon", "url": "https://www.amazon.com/dp/B0DTY5228W?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0D9PX5VDC", "name": "Amazon ASIN B0D9PX5VDC", "store": "amazon", "url": "https://www.amazon.com/dp/B0D9PX5VDC?tag=nisamain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0CNDF7GKW", "name": "Amazon ASIN B0CNDF7GKW", "store": "amazon", "url": "https://www.amazon.com/dp/B0CNDF7GKW?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0CQ3JZPFX", "name": "Amazon ASIN B0CQ3JZPFX", "store": "amazon", "url": "https://www.amazon.com/dp/B0CQ3JZPFX?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0BN57FSVJ", "name": "Amazon ASIN B0BN57FSVJ", "store": "amazon", "url": "https://www.amazon.com/dp/B0BN57FSVJ?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0BQL9GS3L", "name": "Amazon ASIN B0BQL9GS3L", "store": "amazon", "url": "https://www.amazon.com/dp/B0BQL9GS3L?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0BSHCSP16", "name": "Amazon ASIN B0BSHCSP16", "store": "amazon", "url": "https://www.amazon.com/dp/B0BSHCSP16?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0BXVFZ196", "name": "Amazon ASIN B0BXVFZ196", "store": "amazon", "url": "https://www.amazon.com/dp/B0BXVFZ196?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0BSCGV53L", "name": "Amazon ASIN B0BSCGV53L", "store": "amazon", "url": "https://www.amazon.com/dp/B0BSCGV53L?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0CWBXFJL2", "name": "Amazon ASIN B0CWBXFJL2", "store": "amazon", "url": "https://www.amazon.com/dp/B0CWBXFJL2?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0F2V8ZZKF", "name": "Amazon ASIN B0F2V8ZZKF", "store": "amazon", "url": "https://www.amazon.com/dp/B0F2V8ZZKF?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0BHM682Q8", "name": "Amazon ASIN B0BHM682Q8", "store": "amazon", "url": "https://www.amazon.com/dp/B0BHM682Q8?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0CNDZX3PQ", "name": "Amazon ASIN B0CNDZX3PQ", "store": "amazon", "url": "https://www.amazon.com/dp/B0CNDZX3PQ?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B08Y19BKLG", "name": "Amazon ASIN B08Y19BKLG", "store": "amazon", "url": "https://www.amazon.com/dp/B08Y19BKLG?tag=nismain-20&linkCode=ogi&th=1&psc=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0B8HZXVH4", "name": "Amazon ASIN B0B8HZXVH4", "store": "amazon", "url": "https://www.amazon.com/dp/B0B8HZXVH4?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B08WYZB88Y", "name": "Amazon ASIN B08WYZB88Y", "store": "amazon", "url": "https://www.amazon.com/dp/B08WYZB88Y?tag=nismain-20&linkCode=ogi&th=1&psc=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} },
+    { "id": "amazon-B0F2TWLZQX", "name": "Amazon ASIN B0F2TWLZQX", "store": "amazon", "url": "https://www.amazon.com/dp/B0F2TWLZQX?tag=nismain-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER&aod=1", "channel_env": "WEBHOOK_POKEMON_DROPS", "check_interval_seconds": 60, "selectors": {} }
+  ]
+}
